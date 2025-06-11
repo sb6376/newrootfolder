@@ -1,0 +1,21 @@
+ h2{
+            color: #000;
+            margin: 0px;
+            
+            font-size: 70px;
+            background-color: gray;
+            text-align: center;
+        }
+         p {
+        background-color: aqua;
+    }
+    .helo{
+        text-align: left;
+        font-size: 20px;
+    background-color: white;
+    }
+    div p{
+        text-align: left;
+        background-color: beige;
+        font-size: 20px;
+    }
